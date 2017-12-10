@@ -1,1 +1,1 @@
-Collections of data structures/algorithms/interview questions I find interesting.
+Collections of data structures/algorithms/interview questions I find interesting or necessary.
